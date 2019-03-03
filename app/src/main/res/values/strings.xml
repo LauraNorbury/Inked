@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Inked</string>
+    <string name="title_home">Upload</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Maps</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
